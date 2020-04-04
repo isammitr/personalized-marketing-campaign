@@ -101,6 +101,7 @@ A predictive model is built to predict which offer type a customer is most likel
 
 ### Further Improvement:
 - Using `transactions_df`, average amount can be calculated. Or a supervised learning model can be built to predict the amount a customer will spend in future on various offers.
+- Hyper Parameter Optimization i.e. GridSearchCV can be used to improve the KNN classifier and identify the model parameters.
 
 ## Acknowledgments
 Thank you to Udacity for such amazing opportunity and lessons. Thank you the Starbucks for sharing this use case and the simulated data. 

@@ -9,6 +9,7 @@ Being a constant customer at Starbucks, I found this project interesting. Also, 
 ## Running the project on local:
 
 - Simply download the jupyter notebook (`SBUX_Personalized_Marketing_Campaign.ipynb`) and the 3 data files.
+- [Click here](https://drive.google.com/open?id=1JciCsDrTwwBk6o77aY0hLpf5iLFkUlUF) for data.
 - In your terminal run, 
   - `cd directory/to/ipynbfile` 
   - `jupyter notebook`

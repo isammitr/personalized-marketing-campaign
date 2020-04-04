@@ -102,3 +102,5 @@ A predictive model is built to predict which offer type a customer is most likel
 ## Acknowledgments
 Thank you to Udacity for such amazing opportunity and lessons. Thank you the Starbucks for sharing this use case and the simulated data. 
 Also thanks to the [pandas](https://pandas.pydata.org/), [sklearn](https://scikit-learn.org/stable/index.html) and [seaborn](https://seaborn.pydata.org/) communities for their awesome and lucid official documentations which I have used for reference.
+
+Do check out [my blog](https://medium.com/@ranadesammit/personalised-marketing-campaign-for-starbucks-e01c1e2a11ec) on Medium! 

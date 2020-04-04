@@ -99,6 +99,9 @@ A predictive model is built to predict which offer type a customer is most likel
   - Customers are attracted to BOGO and Discount offers more as compared to Informational Offers
   - Factors like **Age, Gender, Income** of the *customers* and the **Rewards** which customers receive from each *offer* are the factors which affect the customers reactions positively. 
 
+### Further Improvement:
+- Using `transactions_df`, average amount can be calculated. Or a supervised learning model can be built to predict the amount a customer will spend in future on various offers.
+
 ## Acknowledgments
 Thank you to Udacity for such amazing opportunity and lessons. Thank you the Starbucks for sharing this use case and the simulated data. 
 Also thanks to the [pandas](https://pandas.pydata.org/), [sklearn](https://scikit-learn.org/stable/index.html) and [seaborn](https://seaborn.pydata.org/) communities for their awesome and lucid official documentations which I have used for reference.
